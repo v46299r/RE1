@@ -1,5 +1,4 @@
 # Hello World, Testy!
 
-
-## RE1
-Just a demo
+### Some list
+ * From bash command line GitBash
